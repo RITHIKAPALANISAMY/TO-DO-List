@@ -1,2 +1,2 @@
-# Code-Project
+# TO-DO List
 TO-DO List using HTML,CSS,JAVASCRIPT
